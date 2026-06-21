@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="icon-large.webp" alt="Dublin Airport Express Parking" width="110" />
+<img src="icon-large.png" alt="Dublin Airport Express Parking" width="110" />
 
 # Dublin Airport Express Parking
 
